@@ -24,3 +24,7 @@ update `groups`
 set status = 'Member of the team got possessed... brb quick exorcism'
 where id = 1;
 ```
+### 5. One of the learners changed his/her mind and decided to be an astronaut
+````
+delete from learners 
+where id = 3;
